@@ -15,6 +15,8 @@ public class Ejemplo03 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        // Esto es mi comentario
+        // Este es otro comentario
         // Tipos de dato en Java
         
         // Tipos de dato en Java
